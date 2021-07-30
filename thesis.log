@@ -1,0 +1,86 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.17)  18 APR 2021 12:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (./tumthesis.cls
+Document Class: tumthesis 2014/11/26 v0.01.0 tumthesis.cls NET thesis class bas
+ed on msvreport.cls
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count167
+\U@D=\dimen134
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count168
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language76) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language76) on input line 108.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthogra
+phy)
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 121.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count169
+\c@chapter=\count170
+\c@section=\count171
+\c@subsection=\count172
+\c@subsubsection=\count173
+\c@paragraph=\count174
+\c@subparagraph=\count175
+\c@figure=\count176
+\c@table=\count177
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+
+! LaTeX Error: File `tumlang.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.68 \RequirePackage
+                    {tumcolor}^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 924 strings out of 481239
+ 12398 string characters out of 5920376
+ 255785 words of memory out of 5000000
+ 16251 multiletter control sequences out of 15000+600000
+ 532638 words of font info for 25 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,0n,35p,233b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

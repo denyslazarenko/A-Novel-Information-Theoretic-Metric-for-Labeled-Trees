@@ -1,0 +1,66 @@
+\babel@toc {ngerman}{}
+\babel@toc {english}{}
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\babel@toc {english}{}
+\babel@toc {ngerman}{}
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Graph and its representation as a dendrogram.\relax }}{5}{figure.caption.9}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Two rooted phylogenetic trees. Despite their high similarity, the RF metric between these two trees is equal to $\frac {1}{9}$ \cite {RF2013}.\relax }}{11}{figure.caption.18}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Intrinsic information of a clustering of $n=100$ items into $k$ clusters, with respect to $k$.\relax }}{20}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Optimal number of clusters with respect to $n$.\relax }}{20}{figure.caption.32}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Simple Experiment - example dendrograms with different structure.\relax }}{26}{figure.caption.42}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Simple Experiment - tree \ref {fig:simple_dendeogram_aa} is a subtree of \ref {fig:simple_dendeogram_bb}.\relax }}{27}{figure.caption.45}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Simple Experiment - caterpillar and fully binary trees with 8 leaves.\relax }}{28}{figure.caption.46}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Evaluation of similarity score results on the Gaussian mixture model with $M=10$ clusters and $n=50$ elements in each of it.\relax }}{29}{figure.caption.48}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Binary trees with $n=100$ leaves: dependence of the similarity score to the parameter $k$ - shuffled leaf pairs. \relax }}{29}{figure.caption.50}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Binary trees with $n=100$ leaves: dependence of the time complexity to the parameter $k$ - shuffled leaf pairs.\relax }}{30}{figure.caption.52}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Time complexity between two randomly generated binary trees depending on the number of leaves $n$.\relax }}{31}{figure.caption.53}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces General trees with $n=100$ leaves: dependence of the similarity score to the parameter $k$ - shuffled leaf pairs.\relax }}{31}{figure.caption.55}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces General trees with $n=100$ leaves: dependence of the time complexity to the parameter $k$ - shuffled leaf pairs.\relax }}{32}{figure.caption.57}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Time complexity between two randomly generated general trees depending on the number of leaves $n$.\relax }}{32}{figure.caption.58}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces SBM graph with $n=100$ nodes, $p_{in}=1$, $p_{out}=0.01$ and $K=10$ classes which are uniformly distributed. There are 381 edges with an avarage degree of 7.62.\relax }}{33}{figure.caption.60}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Dendrogram \ref {fig:sbm_dendeogram_original} is syntactically generated, while \ref {fig:sbm_dendeogram_ward_}, \ref {fig:sbm_dendeogram_louvain_}, \ref {fig:sbm_dendeogram_paris_} obtained by applying clustering algorithms presented in Chapter \ref {clustering_algorithms} to the SBM graph.\relax }}{34}{figure.caption.61}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {TAMI.}}}{34}{figure.caption.61}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {TPAMI.}}}{34}{figure.caption.61}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {RF.}}}{34}{figure.caption.61}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {ZSS.}}}{34}{figure.caption.61}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {TAMI.}}}{34}{figure.caption.61}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {TPAMI.}}}{34}{figure.caption.61}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Ground-truth dendrogram.}}}{34}{figure.caption.61}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Dendrogram obrained after applying the Ward algorithm.}}}{34}{figure.caption.61}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Dendrogram obrained after applying the Louvain algorithm.}}}{34}{figure.caption.61}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Dendrogram obrained after applying the Paris algorithm.}}}{34}{figure.caption.61}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Evaluation results on the SBM graph measuring similarity between hierarchies represented by dendrograms $D_{original}$ and $D_{shuffled}$ depending on the amount of noise $p_{shuffled}$.\relax }}{35}{figure.caption.62}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Evaluation results on the SBM graph measuring time complexity of each metric depending on the amount of noise $p_{shuffled}$.\relax }}{36}{figure.caption.64}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Dendrogram \ref {fig:hsbm_dendeogram_original} is syntactically generated, while \ref {fig:hsbm_dendeogram_ward}, \ref {fig:hsbm_dendeogram_louvain}, \ref {fig:hsbm_dendeogram_paris} obtained by applying clustering algorithms \ref {clustering_algorithms} to the HSBM graph.\relax }}{37}{figure.caption.67}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Evaluation results on HSBM graph measuring similarity between hierarchies represented by dendrograms $D_{original}$ and $D_{shuffled}$ depending on the amount of noise $p_{shuffled}$.\relax }}{38}{figure.caption.68}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Evaluation results on HSBM graph measuring time complexity of each metric depending on the amount of noise $p_{shuffled}$.\relax }}{39}{figure.caption.70}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces OpenFlights graph \cite {netset}. \relax }}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Similarity results on the Ward dendrogram.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Similarity results on the Louvain dendrogram.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Similarity results on the Paris dendrogram.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Runtime results on the Ward dendrogram.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Runtime results on the Louvain dendrogram.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Runtime results on the Paris dendrogram.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {TAMI.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {TPAMI.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Ground-truth.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Ward.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Louvain.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Paris.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Ward.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Louvain.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Paris.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Runtime results on the Ward dendrogram.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Runtime results on the Louvain dendrogram.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Runtime results on the Paris dendrogram.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {TAMI.}}}{41}{figure.caption.74}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {TPAMI.}}}{41}{figure.caption.74}%
+\addvspace {10\p@ }

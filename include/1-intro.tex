@@ -1,0 +1,48 @@
+\chapter{Introduction}
+\label{intro}
+Trees are probably one of the most frequently used data structures in Computer Science due to their simplicity of implementation and understanding. It is well known how to analyse, traverse and use them as a base element of more complicated algorithms. This is not an exception for Machine Learning, where trees serve different purposes: Decision tree, Random Forest or Tree LSTMs. Additionally, it is frequently the case that we need to quantitatively compare similarity or calculate distance between two or more trees that have the same set of leaves but different topologies. 
+To solve these tasks, numerous metrics were proposed  \cite{RF2013}, \cite{Zhang1989}, \cite{Penny1982}. However, all these metrics either have high complexity or perform well only in specific domains.  
+
+Indeed, the application area is vast. One of the most popular tasks of unsupervised learning is clustering. Its main goal is to make partitions of objects which are similar to each other. The subfamily of clustering algorithms, called hierarchical clustering, is often used in various tasks due to its explainability and adaptivity. 
+There is a considerable demand for a good metric that would be able to evaluate performance of hierarchical clustering algorithms in order to compare them and adjust their hyperparameters. 
+
+While in supervised learning scenarios it is possible to compare ground truth labels with predicted values, in unsupervised learning this is not the case. To tackle this issue, some new metrics were introduced. These include Dasgupta cost \cite{dasgupta2016cost} and Tree Sampling Divergence distance \cite{tsd2019}. Both of these metrics were designed for graph structures, but data is not always available in this format. 
+
+Likewise, another area of application that relies on tree structures is biology. Phylogenetic trees have the same leaf labels, but different branching structures summarize information about historical evolutionary relationships, which are represented by sequenced genes. On the side, hierarchical algorithms have shown a great success in finance including portfolio diversification, optimization, risk management and market analysis \cite{Papenbrock2011_1000025469}, \cite{Gallegati2008}. Last but not least, hierarchy is used in Linguistic and Natural Language Processing. For example, WordNet \cite{wordnet} - a well-known lexical collection where parts of speech are grouped into sets of cognitive synonyms, exhibits a high quality. Nevertheless, it was collected manually requiring significant time and resources. In order to automatise this process, it is possible to take a big corpora of documents (i.e. English Wikipedia), apply hierarchical clustering algorithms, compare them with the existing ground truth of words grouped by themes from WordNet and develop an accurate algorithm which can then be scaled to other languages.
+
+The performance evaluation of clustering algorithms is also a non-trivial task, requiring the evaluation metric not only to be independent of cluster labels, but also to partition data based on some membership criteria defined by a similarity metric. Let's consider some partitions of a set of $n$ items. Trivial partitions such as a single set or $n$ singletons convey little information about these items. We introduce the notion of adjusted entropy, which was derived from adjusted mutual information and quantifies the amount of information obtained by some partition. We present a novel Information Theoretic Metric for Labeled Trees called Tree Mutual Information (TMI), which can be in turn interpreted through adjusted mutual information. The metric is based on a maximum alignment between leaf sets in labeled trees. Further, it is equal to zero for the above trivial clustering and approximates optimal partitions with respect to the shared information score.
+
+As an additional contribution to our primary problem solution, we introduce a new metric to quantify similarity between two clustering \cite{Lazarenko2021pairwise}. Hence, we propose an adjustment based on pairwise label permutations instead of full label permutations. Specifically, we consider permutations where only two samples, selected uniformly at random, exchange their labels. We show that the corresponding adjusted metric, which can be expressed explicitly, behaves similarly to the standard adjusted mutual information while having much lower time complexity. Lastly, both metrics are compared in terms of quality and performance on experiments utilising synthetic and real data.  
+
+\section{Goals of the Thesis}
+
+In this thesis, we tackle the problem of measuring similarity between trees with same labels. Furthermore, we address the following research questions:
+
+\paragraph{Q1}
+\label{q1}
+How to efficiently measure the similarity between two labeled trees with the same leaf sets but different topology?
+
+\paragraph{Q2}
+\label{q2}
+How well does a novel information-theoretic metric assess the quality of hierarchical clustering of different data types? What is the optimal number of clusters that maximizes similarity between two dendrograms?
+
+\paragraph{Q3}
+\label{q3}
+What are some pros and cons of the novel metric in comparison to state-of-the-art?
+
+By the end of the thesis, all the research questions should be answered and a set of software artifacts produced. The artifacts can be used by the Chair of Mathematics and the general public in testing and evaluation. 
+
+\section{Outline}
+
+This thesis is structured as follows:
+
+Chapter \ref{background} contains some background knowledge on data types, data structures, and common approaches to deal with the domain of tree comparison. We proceed with the main ideas of unsupervised learning and hierarchical clustering, on which we are mostly concentrated in this thesis.
+
+In Chapter \ref{related} we introduce existing metrics to evaluate performance of tree similarity measurement and its main components. We explain pros and cons of each metric and select one for future analysis. We then proceed with an evaluation strategy to compare different experiments that we introduce in Chapter \ref{experiments}.
+
+In Chapter \ref{design} we provide a full theoretical explanation which underlies the novel metric. We prove some crucial theorems and propositions as well as analyse the complexity of the metric. 
+
+In Chapter \ref{experiments} we start with the experimental setup and some details about data choice for our experiments. We then describe the main baselines and our novel methodology. After that, we show the results of our experiments. We analyse the results for various hyperparameters of the models and conduct quantitative and qualitative comparisons of different approaches. We discuss the results to outline the main bottlenecks and limitations of designed approaches. 
+
+The thesis is concluded by Chapter \ref{conclusion}, which contains a summary of the thesis and answers research questions. 
+Lastly, we raise questions for further research and specify pathways for improvements.

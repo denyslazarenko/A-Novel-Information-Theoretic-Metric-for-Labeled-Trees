@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+The top-level auxiliary file: thesis.aux
+The style file: biblatex.bst
+Database file #1: thesis-blx.bib
+Database file #2: bib/IEEEfull.bib
+Database file #3: bib/litnew.bib
+Repeated entry---line 478 of file bib/litnew.bib
+ : @article{vinh2010information
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 660 of file bib/litnew.bib
+ : @online{pearson
+ :                ,
+I'm skipping whatever remains of this entry
+Biblatex version: 3.13
+(There were 2 error messages)

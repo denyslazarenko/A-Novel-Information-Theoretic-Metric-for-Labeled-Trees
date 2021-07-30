@@ -1,0 +1,806 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{RF2013}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BSCSKG}{%
+         family={Böcker},
+         familyi={B\bibinitperiod},
+         given={S.\bibnamedelima Canzar S. Klau\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{BSCSKG1}
+    \strng{fullhash}{BSCSKG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/978-3-642-40453-5_13
+    \endverb
+    \field{number}{1}
+    \field{pages}{156\bibrangedash 169}
+    \field{title}{The generalized Robinson-Foulds metric.}
+    \field{volume}{8126}
+    \field{journaltitle}{Algorithms in Bioinformatics}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Penny1982}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PD}{%
+         family={Penny},
+         familyi={P\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FLR}{%
+         family={Foulds},
+         familyi={F\bibinitperiod},
+         given={L.\bibnamedelima R.},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HMD}{%
+         family={Hendy},
+         familyi={H\bibinitperiod},
+         given={M.\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature}%
+    }
+    \keyw{Amino Acid Sequence,Biological,Biological Evolution*,Comparative
+  Study,D Penny,L R Foulds,M D Hendy,MEDLINE,Models,NCBI,NIH,NLM,National
+  Center for Biotechnology Information,National Institutes of Health,National
+  Library of Medicine,Probability,Proteins / genetics*,PubMed
+  Abstract,doi:10.1038/297197a0,pmid:7078635}
+    \strng{namehash}{PDFLRHMD1}
+    \strng{fullhash}{PDFLRHMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The theory of evolution predicts that similar phylogenetic trees should be
+  obtained from different sets of character data. We have tested this
+  prediction using sequence data for 5 proteins from 11 species. Our results
+  are consistent with the theory of evolution. {\textcopyright} 1982 Nature
+  Publishing Group.%
+    }
+    \verb{doi}
+    \verb 10.1038/297197a0
+    \endverb
+    \field{issn}{00280836}
+    \field{number}{5863}
+    \field{pages}{197\bibrangedash 200}
+    \field{title}{{Testing the theory of evolution by comparing phylogenetic
+  trees constructed from five different protein sequences}}
+    \verb{url}
+    \verb https://pubmed.ncbi.nlm.nih.gov/7078635/
+    \endverb
+    \field{volume}{297}
+    \field{journaltitle}{Nature}
+    \field{year}{1982}
+  \endentry
+
+  \entry{Papenbrock2011_1000025469}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=PJ}{%
+         family={Papenbrock},
+         familyi={P\bibinitperiod},
+         given={Jochen},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {english}%
+    }
+    \list{publisher}{1}{%
+      {{Karlsruher Institut f{\"{u}}r Technologie (KIT)}}%
+    }
+    \keyw{cluster analysis, complex networks, portfolio optimization, risk
+  management, stress testing, early warning, risk concentrations, dynamic
+  analysis}
+    \strng{namehash}{PJ1}
+    \strng{fullhash}{PJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.5445/IR/1000025469
+    \endverb
+    \field{title}{Asset Clusters and Asset Networks in Financial Risk
+  Management and Portfolio Optimization}
+    \field{type}{phdthesis}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Gallegati2008}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GM}{%
+         family={Gallegati},
+         familyi={G\bibinitperiod},
+         given={Mauro},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TV}{%
+         family={Tola},
+         familyi={T\bibinitperiod},
+         given={Vincenzo},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Lillo},
+         familyi={L\bibinitperiod},
+         given={Fabrizio},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Mantegna},
+         familyi={M\bibinitperiod},
+         given={Rosario},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GM+1}
+    \strng{fullhash}{GMTVLFMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.jedc.2007.01.034
+    \endverb
+    \field{pages}{235\bibrangedash 258}
+    \field{title}{Cluster Analysis for Portfolio Optimization}
+    \field{volume}{32}
+    \field{journaltitle}{Journal of Economic Dynamics and Control}
+    \field{month}{02}
+    \field{year}{2008}
+  \endentry
+
+  \entry{wordnet}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OP}{%
+         family={Oram},
+         familyi={O\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{OP1}
+    \strng{fullhash}{OP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1017/S0142716401221079
+    \endverb
+    \field{number}{1}
+    \field{pages}{131–134}
+    \field{title}{WordNet: An electronic lexical database. Christiane Fellbaum
+  (Ed.). Cambridge, MA: MIT Press, 1998. Pp. 423.}
+    \field{volume}{22}
+    \field{journaltitle}{Applied Psycholinguistics}
+    \field{year}{2001}
+  \endentry
+
+  \entry{dasgupta2016cost}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DS}{%
+         family={Dasgupta},
+         familyi={D\bibinitperiod},
+         given={Sanjoy},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{Approximation algorithm, Hierarchical clustering}
+    \strng{namehash}{DS1}
+    \strng{fullhash}{DS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the Annual ACM Symposium on Theory of
+  Computing}
+    \verb{doi}
+    \verb 10.1145/2897518.2897527
+    \endverb
+    \verb{eprint}
+    \verb 1510.05043
+    \endverb
+    \field{isbn}{9781450341325}
+    \field{issn}{07378017}
+    \field{pages}{118\bibrangedash 127}
+    \field{title}{{A cost function for similarity-based hierarchical
+  clustering}}
+    \field{eprinttype}{arXiv}
+    \field{year}{2016}
+  \endentry
+
+  \entry{ROBINSON}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BS}{%
+         family={B{\"o}cker},
+         familyi={B\bibinitperiod},
+         given={Sebastian},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Canzar},
+         familyi={C\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KGW}{%
+         family={Klau},
+         familyi={K\bibinitperiod},
+         given={Gunnar\bibnamedelima W.},
+         giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=DA}{%
+         family={Darling},
+         familyi={D\bibinitperiod},
+         given={Aaron},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Stoye},
+         familyi={S\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Berlin Heidelberg}%
+    }
+    \strng{namehash}{BSCSKGW1}
+    \strng{fullhash}{BSCSKGW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Algorithms in Bioinformatics}
+    \field{isbn}{978-3-642-40453-5}
+    \field{pages}{156\bibrangedash 169}
+    \field{title}{The Generalized Robinson-Foulds Metric}
+    \list{location}{1}{%
+      {Berlin, Heidelberg}%
+    }
+    \field{year}{2013}
+  \endentry
+
+  \entry{Kuhner1994}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KM}{%
+         family={Kuhner},
+         familyi={K\bibinitperiod},
+         given={MK},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FJ}{%
+         family={Felsenstein},
+         familyi={F\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+    }
+    \strng{namehash}{KMFJ1}
+    \strng{fullhash}{KMFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1093/oxfordjournals.molbev.a040126
+    \endverb
+    \field{issn}{0737-4038}
+    \field{number}{3}
+    \field{pages}{459—468}
+    \field{title}{A simulation comparison of phylogeny algorithms under equal
+  and unequal evolutionary rates}
+    \verb{url}
+    \verb https://doi.org/10.1093/oxfordjournals.molbev.a040126
+    \endverb
+    \field{volume}{11}
+    \field{journaltitle}{Molecular biology and evolution}
+    \field{year}{1994}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Critchlow1996}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CD}{%
+         family={Critchlow},
+         familyi={C\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pearl},
+         familyi={P\bibinitperiod},
+         given={Dennis},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=QC}{%
+         family={Qian},
+         familyi={Q\bibinitperiod},
+         given={CL},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CDPDQC1}
+    \strng{fullhash}{CDPDQC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1093/sysbio/45.3.323
+    \endverb
+    \field{pages}{323\bibrangedash 334}
+    \field{title}{The Triples Distance for Rooted Bifurcating Phylogenetic
+  Trees}
+    \field{volume}{45}
+    \field{journaltitle}{Systematic Biology - SYST BIOL}
+    \field{month}{09}
+    \field{year}{1996}
+  \endentry
+
+  \entry{Zhang1989}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ZK}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Kaizhong},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shasha},
+         familyi={S\bibinitperiod},
+         given={Dennis},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZKSD1}
+    \strng{fullhash}{ZKSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1137/0218082
+    \endverb
+    \field{pages}{1245\bibrangedash 1262}
+    \field{title}{Simple Fast Algorithms for the Editing Distance Between Trees
+  and Related Problems}
+    \field{volume}{18}
+    \field{journaltitle}{SIAM J. Comput.}
+    \field{month}{12}
+    \field{year}{1989}
+  \endentry
+
+  \entry{Tai1979}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TKC}{%
+         family={Tai},
+         familyi={T\bibinitperiod},
+         given={Kuo-Chung},
+         giveni={K\bibinithyphendelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \strng{namehash}{TKC1}
+    \strng{fullhash}{TKC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1145/322139.322143
+    \endverb
+    \field{issn}{0004-5411}
+    \field{number}{3}
+    \field{pages}{422–433}
+    \field{title}{The Tree-to-Tree Correction Problem}
+    \verb{url}
+    \verb https://doi.org/10.1145/322139.322143
+    \endverb
+    \field{volume}{26}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{J. ACM}
+    \field{month}{07}
+    \field{year}{1979}
+  \endentry
+
+  \entry{Pawlik2011}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PM}{%
+         family={Pawlik},
+         familyi={P\bibinitperiod},
+         given={Mateusz},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AN}{%
+         family={Augsten},
+         familyi={A\bibinitperiod},
+         given={Nikolaus},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {VLDB Endowment}%
+    }
+    \strng{namehash}{PMAN1}
+    \strng{fullhash}{PMAN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.14778/2095686.2095692
+    \endverb
+    \field{issn}{2150-8097}
+    \field{number}{4}
+    \field{pages}{334–345}
+    \field{title}{RTED: A Robust Algorithm for the Tree Edit Distance}
+    \verb{url}
+    \verb https://doi.org/10.14778/2095686.2095692
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{Proc. VLDB Endow.}
+    \field{month}{12}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Pawlik2017}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=SS}{%
+         family={Schwarz},
+         familyi={S\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pawlik},
+         familyi={P\bibinitperiod},
+         given={Mateusz},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AN}{%
+         family={Augsten},
+         familyi={A\bibinitperiod},
+         given={Nikolaus},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \name{editor}{4}{}{%
+      {{hash=BC}{%
+         family={Beecks},
+         familyi={B\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Borutta},
+         familyi={B\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Kr{\"o}ger},
+         familyi={K\bibinitperiod},
+         given={Peer},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Seidl},
+         familyi={S\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer International Publishing}%
+    }
+    \strng{namehash}{SSPMAN1}
+    \strng{fullhash}{SSPMAN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Similarity Search and Applications}
+    \field{isbn}{978-3-319-68474-1}
+    \field{pages}{156\bibrangedash 170}
+    \field{title}{A New Perspective on the Tree Edit Distance}
+    \list{location}{1}{%
+      {Cham}%
+    }
+    \field{year}{2017}
+  \endentry
+
+  \entry{romano2014standardized}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=RS}{%
+         family={Romano},
+         familyi={R\bibinitperiod},
+         given={Simone},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bailey},
+         familyi={B\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Nguyen},
+         familyi={N\bibinitperiod},
+         given={Vinh},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=VK}{%
+         family={Verspoor},
+         familyi={V\bibinitperiod},
+         given={Karin},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RS+1}
+    \strng{fullhash}{RSBJNVVK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{International Conference on Machine Learning}
+    \field{pages}{1143\bibrangedash 1151}
+    \field{title}{Standardized mutual information for clustering comparisons:
+  one step further in adjustment for chance}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Lazarenko2021pairwise}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=LD}{%
+         family={Lazarenko},
+         familyi={L\bibinitperiod},
+         given={Denys},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Bonald},
+         familyi={B\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LDBT1}
+    \strng{fullhash}{LDBT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 2103.12641
+    \endverb
+    \field{title}{Pairwise Adjusted Mutual Information}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.LG}
+    \field{year}{2021}
+  \endentry
+
+  \entry{newick1990}{online}{}
+    \name{author}{1}{}{%
+      {{hash=GO}{%
+         family={G},
+         familyi={G},
+         given={Olsen},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GO1}
+    \strng{fullhash}{GO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Newick's 8:45" Tree Format Standard}
+    \verb{url}
+    \verb http://evolution.genetics.washington.edu/phylip/newick_doc.html
+    \endverb
+    \field{month}{04}
+    \field{year}{1990}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Ward1963}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JJHW}{%
+         family={Jr.},
+         familyi={J\bibinitperiod},
+         given={Joe H.\bibnamedelima Ward},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor & Francis}%
+    }
+    \strng{namehash}{JJHW1}
+    \strng{fullhash}{JJHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1080/01621459.1963.10500845
+    \endverb
+    \verb{eprint}
+    \verb https://www.tandfonline.com/doi/pdf/10.1080/01621459.1963.10500845
+    \endverb
+    \field{number}{301}
+    \field{pages}{236\bibrangedash 244}
+    \field{title}{Hierarchical Grouping to Optimize an Objective Function}
+    \verb{url}
+    \verb https://www.tandfonline.com/doi/abs/10.1080/01621459.1963.10500845
+    \endverb
+    \field{volume}{58}
+    \field{journaltitle}{Journal of the American Statistical Association}
+    \field{year}{1963}
+  \endentry
+
+  \entry{Newman_2004}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NMEJ}{%
+         family={Newman},
+         familyi={N\bibinitperiod},
+         given={M.\bibnamedelima E.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society (APS)}%
+    }
+    \strng{namehash}{NMEJ1}
+    \strng{fullhash}{NMEJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/physreve.69.066133
+    \endverb
+    \field{issn}{1550-2376}
+    \field{number}{6}
+    \field{title}{Fast algorithm for detecting community structure in networks}
+    \verb{url}
+    \verb http://dx.doi.org/10.1103/PhysRevE.69.066133
+    \endverb
+    \field{volume}{69}
+    \field{journaltitle}{Physical Review E}
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Bonald2018}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BT}{%
+         family={Bonald},
+         familyi={B\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Charpentier},
+         familyi={C\bibinitperiod},
+         given={Bertrand},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Galland},
+         familyi={G\bibinitperiod},
+         given={Alexis},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hollocou},
+         familyi={H\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Hierarchical clustering algorithm,Paris}
+    \strng{namehash}{BT+1}
+    \strng{fullhash}{BTCBGAHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 1806.01664
+    \endverb
+    \field{title}{{Hierarchical Graph Clustering using Node Pair Sampling}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1806.01664
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{vinh10a}{article}{}
+    \name{author}{3}{}{%
+      {{hash=VNX}{%
+         family={Vinh},
+         familyi={V\bibinitperiod},
+         given={Nguyen\bibnamedelima Xuan},
+         giveni={N\bibinitperiod\bibinitdelim X\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Epps},
+         familyi={E\bibinitperiod},
+         given={Julien},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bailey},
+         familyi={B\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VNXEJBJ1}
+    \strng{fullhash}{VNXEJBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{95}
+    \field{pages}{2837\bibrangedash 2854}
+    \field{title}{Information Theoretic Measures for Clusterings Comparison:
+  Variants, Properties, Normalization and Correction for Chance}
+    \verb{url}
+    \verb http://jmlr.org/papers/v11/vinh10a.html
+    \endverb
+    \field{volume}{11}
+    \field{journaltitle}{Journal of Machine Learning Research}
+    \field{year}{2010}
+  \endentry
+
+  \entry{romano2016adjusting}{article}{}
+    \name{author}{4}{}{%
+      {{hash=RS}{%
+         family={Romano},
+         familyi={R\bibinitperiod},
+         given={Simone},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VNX}{%
+         family={Vinh},
+         familyi={V\bibinitperiod},
+         given={Nguyen\bibnamedelima Xuan},
+         giveni={N\bibinitperiod\bibinitdelim X\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bailey},
+         familyi={B\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=VK}{%
+         family={Verspoor},
+         familyi={V\bibinitperiod},
+         given={Karin},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JMLR. org}%
+    }
+    \strng{namehash}{RS+1}
+    \strng{fullhash}{RSVNXBJVK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{4635\bibrangedash 4666}
+    \field{title}{Adjusting for chance clustering comparison measures}
+    \field{volume}{17}
+    \field{journaltitle}{The Journal of Machine Learning Research}
+    \field{year}{2016}
+  \endentry
+\enddatalist
+\endinput

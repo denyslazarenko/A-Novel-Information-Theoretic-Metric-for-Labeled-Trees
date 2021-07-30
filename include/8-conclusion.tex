@@ -1,0 +1,29 @@
+\chapter{Conclusion}
+\label{conclusion}
+
+In this chapter, we conclude our work by answering the research questions posed in Chapter \ref{intro} and discussing possible improvements and future work.
+
+\section{Contribution and Future Work}
+We proposed a novel Information Theoretic Metric for labeled trees and another way of adjusting mutual information against chance through pairwise label permutations. It approximates optimal partitions with respect to the shared information score. As a sub-problem, we present an adjustment based on pairwise label permutations instead of full label permutations which has much lower complexity than the usual adjusted mutual information. 
+
+Experiments on synthetic and real data show that adjustment against chance plays a crucial role in correctly measuring information between partitions and, therefore, in measuring similarity between trees. Both TAMI and TPAMI show consistent and smooth results and outperform RF and TED metrics in all experiments. However, while TMI with the pairwise adjusted mutual information tends to provide the same results as with full adjusted mutual information, it involves much fewer computations and is therefore applicable to larger trees. Hence, we recommend it for primary usage.
+
+Regarding future work and contributions, we plan to go deeper into normalisation studies \cite{vinh10a} and implement a scaled version of the TPAMI metric. We also want to extend the TMI idea to other similarity metrics as those studied in \cite{romano2016adjusting}.
+
+\section{Research Questions}
+
+\paragraph{Q1}
+\label{q1}
+How to efficiently measure the similarity between two labeled trees with the same leaf sets but different topology?
+
+In this thesis, we considered existing state of the art metrics Chapter \ref{related} and analyse their pros and cons and ran experiments to test them in different settings. 
+
+\paragraph{Q2}
+How well does a novel information-theoretic metric assess the quality of hierarchical clustering of different data types? What is the optimal number of clusters that maximizes similarity between two dendrograms?
+
+Based on experimental evaluation, the TMI metric outperforms all other metrics. It is precise, efficient, and self-explanatory, making it very attractive for real-world problems. We prove Property \ref{property_sqrt_n} which explains an optimal number of clusters for a dendrogram from an information theoretic point of view, as well as conducts experiments that prove our theory in practice.  
+
+\paragraph{Q3}
+What are some pros and cons of the novel metric in comparison to state-of-the-art?
+
+The TPAMI metric shows consistent and smooth results and outperforms RF and TED metrics in all experiments. It exhibits good time complexity and it is suitable for large datasets. An unsolved disadvantage, which was also mentioned as future work, is that the metric is not normalised.

@@ -1,0 +1,15 @@
+- mac: 98:4f:ee:01:f1:18
+  hostname: galileo1
+  uuid: f6465f1e-6de7-4c9d-8fd6-bdd916a64bd0
+  image: http://192.168.1.1/img/gentoo.img
+
+- mac: 98:4f:ee:00:72:d2
+  hostname: galileo2
+  uuid: 5883d165-2422-41c2-aab8-f55b21264fca
+  image: http://192.168.1.1/img/iot-devkit.img
+
+- mac: 98:4f:ee:01:72:00
+  hostname: galileo3
+  uuid: 4e63501e-7c20-44fb-aaa3-b8ff9d9122ba
+  image: http://192.168.1.1/img/gentoo.img
+

@@ -1,0 +1,147 @@
+\documentclass[IN, 11pt, twoside, openright, master, english]{tumthesis}
+
+% Include common packages
+\usepackage{packages}
+% IEEE tools for tweaking bib style
+\usepackage{IEEEtrantools}
+\newcommand\toc{\relax}
+\usepackage[backend=bibtex, sorting=none]{biblatex}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{ltxtable}
+\usepackage{url}
+\usepackage[style=base]{caption}
+\usepackage{subfigure}
+\usepackage{nicefrac}
+\usepackage[hang]{footmisc}
+\usepackage{acro}
+\usepackage{blindtext}
+\usepackage{csvsimple}
+\usepackage{algorithmic}
+\usepackage{float}
+\usepackage[ruled, lined, linesnumbered, commentsnumbered, longend]{algorithm2e}
+\usepackage[utf8]{inputenc}
+\usepackage{glossaries}
+\usepackage{filecontents}
+
+\setlength\footnotemargin{3pt}
+
+\addbibresource{bib/IEEEfull.bib}
+\addbibresource{bib/litnew.bib}
+
+% Load late to avoid same identifier warning
+\usepackage[colorlinks=false,pdfborder={0 0 0}]{hyperref}
+
+\begin{document}
+
+\pagestyle{empty}
+%%%% Title page
+	\begin{titlepage}
+		\begin{center}
+			\includegraphics{figures/TUMlschwarz.png}\\[3mm]
+			\sf
+			{\Large
+				Technische Universit\"at M\"unchen\\[5mm]
+				Department of Mathematics\\[8mm]
+			}
+			\normalsize
+			\includegraphics{figures/TUMlMschwarz.png}\\[15mm]
+			
+			Master's Thesis\\[15mm]
+			
+			{\Huge
+				A Novel Information Theoretic Metric for
+			}
+			
+			\vspace{0.1cm}
+			
+			{\Huge
+				Labeled Trees
+			}
+		
+			\bigskip
+			
+			\normalsize
+			
+			Denys Lazarenko
+		\end{center}
+		\vspace*{55mm}
+		
+		Supervisor: PD Dr. rer. nat. Tobias Lasser
+		\medskip
+		
+		Advisor: Prof. Thomas Bonald.
+		\medskip
+		
+		Submission Date: 29.04.2021
+		\medskip
+	\end{titlepage}
+%%%% The following has to be signed by hand!
+
+\vspace*{150mm}
+
+I hereby declare that this thesis is my own work and that no other sources have been used except those clearly indicated and referenced.
+\bigskip
+
+Garching, 
+
+
+\begin{otherlanguage}{ngerman}
+	\begin{abstract}
+		\input{include/abstract-de}
+	\end{abstract}
+\end{otherlanguage}
+
+\begin{abstract}
+	\input{include/abstract-en}
+\end{abstract}
+
+
+\newpage
+
+
+\begin{thanks}
+	This work was performed in cooperation with Télécom Paris. I would first like to thank my advisor Thomas Bonald at Télécom Paris who provided me with critical guidance during this research. I would also like to thank my thesis supervisor PD Dr. rer. nat. Tobias Lasser of the Informatics department at TUM who accompanied me throughout this Master Thesis, read it carefully and granted me precious comments on my work.
+\end{thanks}
+
+\let\cleardoublepage\clearpage
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+
+\input{include/publications}
+\input{include/abbreviations}
+
+%%%% Page numbering restarts here
+\pagenumbering{arabic}
+\pagestyle{headings}
+
+\startcontent
+
+\input{include/1-intro}
+\input{include/2-background}
+\input{include/4-related.tex}
+\input{include/5-design.tex}
+\input{include/6-impl.tex}
+\input{include/8-conclusion.tex}
+
+%\appendix
+%\chapter{Supplementals}
+%\input{include/appendix}
+
+%\cleardoublepage
+\printbibliography[heading=bibintoc]
+
+%\cleardoublepage
+\clearpage
+\pagestyle{empty}
+%\mbox{}
+%\clearpage
+
+\end{document}
+
+

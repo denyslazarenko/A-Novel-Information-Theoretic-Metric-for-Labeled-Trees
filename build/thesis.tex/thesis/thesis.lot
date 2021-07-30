@@ -1,0 +1,39 @@
+\babel@toc {ngerman}{}
+\babel@toc {english}{}
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\babel@toc {english}{}
+\babel@toc {ngerman}{}
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Simple experiment - similarity matrix. \relax }}{26}{table.caption.43}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Simple experiment - optimal number of clusters. \relax }}{27}{table.caption.44}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Binary trees - Pearson correlation between number of shuffled leaf pairs and values of the corresponding metric. \relax }}{29}{table.caption.51}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces General trees - Pearson correlation between number of shuffled leaf pairs and values of the corresponding metric. \relax }}{31}{table.caption.56}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces SBM - Pearson correlation between amount of noise and values of the corresponding metric. \relax }}{35}{table.caption.63}%
+\contentsline {table}{\numberline {5.6}{\ignorespaces Evaluation results on the SBM graph measuring optimal number of clusters between hierarchies represented by dendrograms $D_{original}$ and $D_{shuffled}$ depending on the amount of noise $p_{shuffled}$. Tree Mutual Information with AMI and PAMI metrics are compared. \relax }}{36}{table.caption.65}%
+\contentsline {table}{\numberline {5.7}{\ignorespaces HSBM - Pearson correlation between amount of noise and values of the corresponding metric. \relax }}{38}{table.caption.69}%
+\contentsline {table}{\numberline {5.8}{\ignorespaces Evaluation results on the HSBM graph measuring optimal number of clusters between hierarchies represented by dendrograms $D_{original}$ and $D_{shuffled}$ depending on the amount of noise $p_{shuffled}$. Tree Mutual Information with AMI and PAMI metrics are compared. \relax }}{40}{table.caption.71}%
+\contentsline {table}{\numberline {5.9}{\ignorespaces Summary of the 2 datasets.\relax }}{41}{table.caption.72}%
+\contentsline {table}{\numberline {5.10}{\ignorespaces Openflights - trees information. \relax }}{42}{table.caption.75}%
+\contentsline {table}{\numberline {5.11}{\ignorespaces Openflights - similarity matrix. \relax }}{42}{table.caption.76}%
+\contentsline {subtable}{\numberline {(a)}{\ignorespaces {TAMI.}}}{42}{subtable.5.11.2}%
+\contentsline {subtable}{\numberline {(b)}{\ignorespaces {TPAMI.}}}{42}{subtable.5.11.2}%
+\contentsline {table}{\numberline {5.12}{\ignorespaces Openflights - optimal number of clusters. \relax }}{42}{table.caption.77}%
+\contentsline {subtable}{\numberline {(a)}{\ignorespaces {TAMI.}}}{42}{subtable.5.12.2}%
+\contentsline {subtable}{\numberline {(b)}{\ignorespaces {TPAMI.}}}{42}{subtable.5.12.2}%
+\contentsline {table}{\numberline {5.13}{\ignorespaces Openflights - time complexities (s). \relax }}{43}{table.caption.78}%
+\contentsline {subtable}{\numberline {(a)}{\ignorespaces {TAMI.}}}{43}{subtable.5.13.2}%
+\contentsline {subtable}{\numberline {(b)}{\ignorespaces {TPAMI.}}}{43}{subtable.5.13.2}%
+\contentsline {table}{\numberline {5.14}{\ignorespaces Wikivitals - trees information. \relax }}{43}{table.caption.80}%
+\contentsline {table}{\numberline {5.15}{\ignorespaces Wikivitals - similarity matrix.\relax }}{44}{table.caption.81}%
+\contentsline {subtable}{\numberline {(a)}{\ignorespaces {TAMI.}}}{44}{subtable.5.15.2}%
+\contentsline {subtable}{\numberline {(b)}{\ignorespaces {TPAMI.}}}{44}{subtable.5.15.2}%
+\contentsline {table}{\numberline {5.16}{\ignorespaces Wikivitals - optimal number of clusters. \relax }}{44}{table.caption.82}%
+\contentsline {table}{\numberline {5.17}{\ignorespaces Wikivitals - time complexities (s).\relax }}{45}{table.caption.83}%
+\addvspace {10\p@ }

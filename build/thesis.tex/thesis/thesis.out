@@ -1,0 +1,34 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Goals of the Thesis}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Outline}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Background}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Data structures}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.1.1}{Graphs}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.2}{Vector Data}{section.2.1}% 7
+\BOOKMARK [1][-]{section.2.2}{Hierarchical clustering}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.1}{Divisive approach}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.2}{Agglomerative approach}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.3}{Dendrograms}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.4}{Trees}{section.2.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Clustering performance evaluation}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Graph based metrics}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.2}{Tree based metrics}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.3}{Metrics requirements}{chapter.3}% 16
+\BOOKMARK [0][-]{chapter.4}{Methodology}{}% 17
+\BOOKMARK [1][-]{section.4.1}{Information Theory}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.2}{Pairwise adjustment}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.3}{Data processing inequality}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.4}{Application to clustering}{chapter.4}% 21
+\BOOKMARK [2][-]{subsection.4.4.1}{Properties}{section.4.4}% 22
+\BOOKMARK [1][-]{section.4.5}{Tree Mutual Information}{chapter.4}% 23
+\BOOKMARK [2][-]{subsection.4.5.1}{Algorithm}{section.4.5}% 24
+\BOOKMARK [2][-]{subsection.4.5.2}{Complexity}{section.4.5}% 25
+\BOOKMARK [2][-]{subsection.4.5.3}{Implementation details}{section.4.5}% 26
+\BOOKMARK [0][-]{chapter.5}{Experiments and Evaluation}{}% 27
+\BOOKMARK [1][-]{section.5.1}{Experimental Setup}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.2}{Syntactic data}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.3}{Real datasets}{chapter.5}% 30
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 31
+\BOOKMARK [1][-]{section.6.1}{Contribution and Future Work}{chapter.6}% 32
+\BOOKMARK [1][-]{section.6.2}{Research Questions}{chapter.6}% 33
+\BOOKMARK [0][-]{chapter*.87}{Bibliography}{}% 34
